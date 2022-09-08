@@ -39,8 +39,8 @@ I recived 0.01 goerli faucet from bitszn
 On remix insert code from <a href="https://docs.chain.link/docs/get-the-latest-price/#solidity">doc.chain.link</a>
 
 ### Step 3
-In Remix select as environment `Iniected Provider - MetaMask`
-<img scr="./img/getprise.jpg">
+In Remix select as environment `Iniected Provider - MetaMask` </br>
+<img src="./img/getprice.jpg">
 
 ##
 [![Roberto Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-sparacio-b98ab9225/)
