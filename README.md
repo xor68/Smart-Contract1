@@ -41,6 +41,15 @@ On remix insert code from <a href="https://docs.chain.link/docs/get-the-latest-p
 ### Step 3
 In Remix select as environment `Iniected Provider - MetaMask` </br>
 <img src="./img/getprice.jpg">
+<i>
+``````````````````````````
+Gas requirement of function PriceConsumerV3.getLatestPrice is infinite: 
+If the gas requirement of a function is higher than the block gas limit, 
+it cannot be executed. Please avoid loops in your functions or actions 
+that modify large areas of storage
+``````````````````````````
+</i>
+
 
 ##
 [![Roberto Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-sparacio-b98ab9225/)
