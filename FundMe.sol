@@ -1,4 +1,8 @@
 // SPDX-License-Identifier: MIT
+
+// Get funds from users
+// The simplest transaction is transferring ETH from one account to another
+
     pragma solidity ^0.8.8;
 
     contract FundMe {
