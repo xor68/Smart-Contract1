@@ -26,7 +26,7 @@ contract ExtraStorage is SimpleStorage {
 ```````````````````````
 
 ## getPrice.sol
-How to get the price of Ethereum (ETH) on the Ethereum network
+How to get the price of Ethereum (ETH) on the Ethereum network.
 
 ### Step 1 
 Drop faucet: <a href="https://docs.chain.link/docs/link-token-contracts/#goerli">docs.chain.link#goerli</a> - 
